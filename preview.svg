@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 420" role="img" aria-label="Edraw Max 15.2.1.1532 Ultimate preview">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2e7d32"/>
+      <stop offset="100%" stop-color="#43a047"/>
+    </linearGradient>
+  </defs>
+  <rect width="860" height="420" rx="18" fill="url(#bg)"/>
+  <circle cx="620" cy="80" r="14" fill="#a5d6a7" opacity="0.5"/><circle cx="720" cy="60" r="14" fill="#a5d6a7" opacity="0.5"/><circle cx="780" cy="130" r="14" fill="#a5d6a7" opacity="0.5"/><circle cx="680" cy="160" r="14" fill="#a5d6a7" opacity="0.5"/><circle cx="760" cy="200" r="14" fill="#a5d6a7" opacity="0.5"/><line x1="620" y1="80" x2="720" y2="60" stroke="#e8f5e9" stroke-opacity="0.25"/><line x1="720" y1="60" x2="780" y2="130" stroke="#e8f5e9" stroke-opacity="0.25"/><line x1="680" y1="160" x2="760" y2="200" stroke="#e8f5e9" stroke-opacity="0.25"/>
+  <rect x="36" y="36" width="420" height="6" rx="3" fill="#e8f5e9" opacity="0.35"/>
+  <text x="48" y="120" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="42" font-weight="700">Edraw Max 15.2.1.1532 Ultimate</text>
+  <text x="48" y="168" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="20" opacity="0.85">Diagram suite</text>
+  <rect x="48" y="200" width="260" height="4" rx="2" fill="#e8f5e9" opacity="0.3"/>
+  <rect x="48" y="220" width="200" height="4" rx="2" fill="#e8f5e9" opacity="0.2"/>
+  <rect x="48" y="240" width="320" height="4" rx="2" fill="#e8f5e9" opacity="0.15"/>
+</svg>
